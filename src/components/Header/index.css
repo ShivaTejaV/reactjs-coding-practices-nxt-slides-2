@@ -1,0 +1,20 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #dbeafe;
+  justify-content: flex-start;
+  height: 12vh;
+  width: 100%;
+  align-items: center;
+  padding-left: 3vw;
+}
+
+.logo {
+  height: 8vh;
+  margin-right: 2vw;
+}
+
+.title {
+  font-family: Bree Serif;
+}
